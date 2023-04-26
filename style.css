@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: palevioletred;
+    background-color: beige;
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+    color: orange;
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+}
